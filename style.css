@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(104, 152, 255);
+    font-family: fantasy;
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: fantasy;
+}
+
+h2 {
+    color: aliceblue;
+    font-family: fantasy;
+}
+
+p {
+    color: aliceblue;
+    font-family: fantasy;
+}
+
+.bailey-photo {
+    width: 300px;
+    height: auto;
+}
+
+a {
+    color: aliceblue;
+}
