@@ -57,6 +57,11 @@ a {
     height: 160px;
     object-fit: cover;
     border-radius: 15px;
+    cursor: pointer;
+}
+
+.song img:hover {
+    transform: scale(1.08);
 }
 .song p {
     color: white;
@@ -71,4 +76,8 @@ a {
 
 .artist {
     font-size: 16px;
+}
+
+.song a {
+    display: block;
 }
